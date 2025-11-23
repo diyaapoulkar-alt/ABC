@@ -97,3 +97,28 @@ Test Case 2: Language Selection Verification (Mandatory Input)
 Test Case 3: End-to-End Customization
 1. Run the assistant and enter specific, distinct values for both inputs (e.g., Domain: 'Technology', Language: 'French').
 2. Expected Result: The assistant should successfully process both customized inputs, resulting in a news output that covers 'Technology' and is delivered entirely in 'French'. This validates that both filtering mechanisms work simultaneously as intended.
+
+<img width="1440" height="346" alt="Screenshot 2025-11-22 233704" src="https://github.com/user-attachments/assets/e420aa6a-5857-4df8-a2df-0998ee94e3dd" />
+<img width="940" height="199" alt="image" src="https://github.com/user-attachments/assets/ddf9c9c6-72c0-40b2-b706-1950f6622a12" />
+<img width="940" height="216" alt="image" src="https://github.com/user-attachments/assets/b6969bd3-b1a0-4de1-a871-c073d604c1a9" />
+<img width="940" height="226" alt="image" src="https://github.com/user-attachments/assets/0a9d3e12-d94e-4106-8385-9e222e3f1e2c" />
+<img width="940" height="248" alt="image" src="https://github.com/user-attachments/assets/15abbb10-27af-4501-87d7-7e1ebc469db9" />
+<img width="940" height="192" alt="image" src="https://github.com/user-attachments/assets/3560dad3-4211-4243-9f14-f1de5057c8d4" />
+<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/616b9287-ba78-4df7-b3e2-a4844692ca10" />
+<img width="940" height="207" alt="image" src="https://github.com/user-attachments/assets/adcd1fb3-0991-4bd2-a2b5-1fd2f08c25c3" />
+<img width="940" height="198" alt="image" src="https://github.com/user-attachments/assets/968f7466-125d-4fea-b006-aae9b90021a8" />
+<img width="940" height="173" alt="image" src="https://github.com/user-attachments/assets/cd3f09d1-1ded-4a2f-9a61-51916167f696" />
+<img width="940" height="275" alt="image" src="https://github.com/user-attachments/assets/7de32c41-36be-4002-a5fb-b0535efee251" />
+<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/02ab5b7d-b7fd-4450-b66e-3b9ca0bae201" />
+<img width="940" height="176" alt="image" src="https://github.com/user-attachments/assets/3a057333-ccce-480e-882b-11e152bb1873" />
+
+
+
+
+
+
+
+
+
+
+
