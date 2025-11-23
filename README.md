@@ -1,28 +1,28 @@
 PROJECT TITLE:Smart News Assistant (Python)
-About the Author
+
+About the Author:
 This project was developed by Diya Poulkar, a student of Computer Science and Engineering (CSE – AI & ML). With a strong interest in problem-solving and practical application of programming concepts, Diya focuses on developing simple yet impactful software solutions.
 The Smart News Assistant project reflects her enthusiasm for exploring real-time data handling, Python programming, and API-based application development. She is continuously learning and expanding her technical skills to build projects that are both user-friendly and meaningful in real-world contexts.
 
-Acknowledgement
+Acknowledgement:
 I would like to express my heartfelt gratitude to my faculty and mentors for their valuable guidance, feedback, and support throughout the development of this project. Their encouragement helped me strengthen my understanding of Python programming, APIs, and real-time data processing.
 I also extend my sincere thanks to Vityarthi, the learning platform that played a significant role in building my foundational skills. The courses, practice modules, and structured learning approach provided by Vityarthi greatly helped me apply the concepts effectively while creating this project.
 My appreciation also goes to my classmates and friends for their constant motivation and constructive suggestions during project discussions. Lastly, I acknowledge the online documentation and technical resources that assisted me during the implementation of the Smart News Assistant.
 
-Skills and Tools Used
+Skills and Tools Used:
 Programming Skills:
-	Python fundamentals:
-•	Functions and modular programming
-•	Error handling and input validation
-•	Working with JSON data
-•	Basic understanding of APIs
-•	Command-line interaction
-	Tools & Technologies:
-•	Python 3.x — Programming language used for implementation
-•	Requests Library — To fetch real-time news data through APIs
-•	JSON Module — For parsing and handling API responses
-•	Visual Studio Code — Code editor used for development
-•	Terminal/Command Prompt — To run and test the application
-•	News API (or similar) — For accessing live news data
+Python fundamentals:
+Functions and modular programming
+Error handling and input validation
+Working with JSON data•	Basic understanding of APIs
+Command-line interacton
+Tools & Technologies
+Python 3.x — Programming language used for implementation
+Requests Library — To fetch real-time news data through APIs
+JSON Module — For parsing and handling API responses
+Visual Studio Code — Code editor used for development
+Terminal/Command Prompt — To run and test the application
+News API (or similar) — For accessing live news data
 
 OVERVIEW OF PROJECT:
 The project is a smart news assistant made in Python.
@@ -46,17 +46,17 @@ Core Features of the Smart News Assistant
 In essence, the assistant streamlines the process of finding specific news by requiring user input on both the subject matter and the language before generating the relevant results.
 
 TECHNOLOGIES/TOOLS USED:
-🔹 Programming Language
+Programming Language
 Python 3 – Core language used to build the Smart News Assistant
-🔹 API Services
+API Services
 NewsAPI.org – Used to fetch real-time news articles based on topic and language
-🔹 Python Libraries
+Python Libraries
 Requests – For sending HTTP GET requests to the NewsAPI
 JSON (built-in) – To parse the API responses
-🔹 Development Tools
+Development Tools
 VS Code / PyCharm / Any Text Editor – For writing and debugging the code
 Command Line / Terminal – To run the Python script
-🔹 Project Documentation Tools
+Project Documentation Tools
 Markdown (README file)
 Diagram Generation (AI-generated / draw.io / Lucidchart
 Steps to Install and Run the Project:
